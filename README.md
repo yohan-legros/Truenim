@@ -1,2 +1,0 @@
-# Truenim
-Projet Nim
